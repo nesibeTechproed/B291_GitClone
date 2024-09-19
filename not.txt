@@ -1,0 +1,2 @@
+git clone komutu githubta var olan repoyu lokale indirmek için 
+kullanılır.
